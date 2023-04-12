@@ -1,0 +1,8 @@
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\bin\Debug\sistemVizeOdev.exe.config
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\bin\Debug\sistemVizeOdev.exe
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\bin\Debug\sistemVizeOdev.pdb
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\obj\Debug\sistemVizeOdev.csproj.AssemblyReference.cache
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\obj\Debug\sistemVizeOdev.csproj.SuggestedBindingRedirects.cache
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\obj\Debug\sistemVizeOdev.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\obj\Debug\sistemVizeOdev.exe
+D:\Bilgisayar Programcılığı\Bilgisayar Programcılığı 4. Dönem\Seçmeli Ders - Sistem Analizi ve Tasarımı\sistemVizeOdev\obj\Debug\sistemVizeOdev.pdb
